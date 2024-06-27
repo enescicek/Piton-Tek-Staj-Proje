@@ -1,0 +1,42 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!doctype html>
+<html lang="en">
+
+@await Component.InvokeAsync("_HeadComponentPartial")
+
+<body>
+    <div id="outer">
+
+        <!-- Header -->
+        @await Component.InvokeAsync("_NavbarComponentPartial")
+        
+        
+
+        <button class="navbar-button collapsed" type="button">
+            <span class="menu_icon">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </span>
+        </button>
+
+        <main id="content-box" class="order-first">
+
+            @await Component.InvokeAsync("_AnaSayfaComponentPartial")
+            
+            @await Component.InvokeAsync("_HakkimdaComponentPartial")
+
+            @await Component.InvokeAsync("_NotlarComponentPartial")
+
+            @await Component.InvokeAsync("_YeniNotComponentPartial")   
+            
+        </main>
+    </div>
+
+    @await Component.InvokeAsync("_ScriptComponentPartial")   
+</body>
+</html>

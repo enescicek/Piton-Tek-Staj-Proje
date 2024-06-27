@@ -1,0 +1,65 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\2123_simply_amazed\css\bootstrap.min.css" />
+    <None Include="wwwroot\2123_simply_amazed\css\slick.css" />
+    <None Include="wwwroot\2123_simply_amazed\css\tooplate-simply-amazed.css" />
+    <None Include="wwwroot\2123_simply_amazed\fontawesome\css\all.min.css" />
+    <None Include="wwwroot\2123_simply_amazed\fontawesome\LICENSE.txt" />
+    <None Include="wwwroot\2123_simply_amazed\fontawesome\webfonts\fa-brands-400.eot" />
+    <None Include="wwwroot\2123_simply_amazed\fontawesome\webfonts\fa-brands-400.svg" />
+    <None Include="wwwroot\2123_simply_amazed\fontawesome\webfonts\fa-brands-400.ttf" />
+    <None Include="wwwroot\2123_simply_amazed\fontawesome\webfonts\fa-brands-400.woff" />
+    <None Include="wwwroot\2123_simply_amazed\fontawesome\webfonts\fa-brands-400.woff2" />
+    <None Include="wwwroot\2123_simply_amazed\fontawesome\webfonts\fa-regular-400.eot" />
+    <None Include="wwwroot\2123_simply_amazed\fontawesome\webfonts\fa-regular-400.svg" />
+    <None Include="wwwroot\2123_simply_amazed\fontawesome\webfonts\fa-regular-400.ttf" />
+    <None Include="wwwroot\2123_simply_amazed\fontawesome\webfonts\fa-regular-400.woff" />
+    <None Include="wwwroot\2123_simply_amazed\fontawesome\webfonts\fa-regular-400.woff2" />
+    <None Include="wwwroot\2123_simply_amazed\fontawesome\webfonts\fa-solid-900.eot" />
+    <None Include="wwwroot\2123_simply_amazed\fontawesome\webfonts\fa-solid-900.svg" />
+    <None Include="wwwroot\2123_simply_amazed\fontawesome\webfonts\fa-solid-900.ttf" />
+    <None Include="wwwroot\2123_simply_amazed\fontawesome\webfonts\fa-solid-900.woff" />
+    <None Include="wwwroot\2123_simply_amazed\fontawesome\webfonts\fa-solid-900.woff2" />
+    <None Include="wwwroot\2123_simply_amazed\img\gallery-img-01.jpg" />
+    <None Include="wwwroot\2123_simply_amazed\img\gallery-img-02.jpg" />
+    <None Include="wwwroot\2123_simply_amazed\img\gallery-img-03.jpg" />
+    <None Include="wwwroot\2123_simply_amazed\img\gallery-img-04.jpg" />
+    <None Include="wwwroot\2123_simply_amazed\img\gallery-img-05.jpg" />
+    <None Include="wwwroot\2123_simply_amazed\img\gallery-img-06.jpg" />
+    <None Include="wwwroot\2123_simply_amazed\img\gallery-img-07.jpg" />
+    <None Include="wwwroot\2123_simply_amazed\img\gallery-img-08.jpg" />
+    <None Include="wwwroot\2123_simply_amazed\img\gallery-img-09.jpg" />
+    <None Include="wwwroot\2123_simply_amazed\img\menu-item-bg.png" />
+    <None Include="wwwroot\2123_simply_amazed\img\section-1-bg.jpg" />
+    <None Include="wwwroot\2123_simply_amazed\img\section-3-bg.jpg" />
+    <None Include="wwwroot\2123_simply_amazed\index.html" />
+    <None Include="wwwroot\2123_simply_amazed\js\bootstrap.bundle.min.js" />
+    <None Include="wwwroot\2123_simply_amazed\js\jquery-3.3.1.min.js" />
+    <None Include="wwwroot\2123_simply_amazed\js\jquery.singlePageNav.min.js" />
+    <None Include="wwwroot\2123_simply_amazed\js\parallax.min.js" />
+    <None Include="wwwroot\2123_simply_amazed\js\slick.js" />
+    <None Include="wwwroot\2123_simply_amazed\js\templatemo-script.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.28" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.28">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.28" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.28">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+  </ItemGroup>
+
+</Project>

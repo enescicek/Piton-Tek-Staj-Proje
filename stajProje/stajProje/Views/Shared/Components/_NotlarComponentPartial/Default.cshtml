@@ -1,0 +1,24 @@
+﻿@model List<stajProje.DAL.Entities.NoteInfo>
+
+<section class="gallery-section section parallax-window" data-parallax="scroll" data-image-src="https://i.hizliresim.com/nr92cf5.jpg" id="section-3">
+    <div class="container">
+        <div class="title text-right">
+            <h2>Raporlar</h2>
+        </div>
+        <div class="mx-auto gallery-slider">
+            @foreach (var item in Model)
+            {
+                <figure class="effect-julia item">
+                    <img src="@item.NoteImgUrl" alt="Image">
+                    <figcaption>
+                        <div>
+                            <p>@item.NoteName</p>
+                        </div>
+                        <a href="#">View more</a>
+                    </figcaption>
+                </figure>
+            }
+
+        </div>
+    </div>
+</section>

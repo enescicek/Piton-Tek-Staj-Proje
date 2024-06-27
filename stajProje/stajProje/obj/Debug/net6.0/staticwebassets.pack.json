@@ -1,0 +1,421 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\stajProje.bundle.scp.css",
+      "PackagePath": "staticwebassets\\stajProje.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\css\\slick.css",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\css\\tooplate-simply-amazed.css",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\css\\tooplate-simply-amazed.css"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\fontawesome\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\fontawesome\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\fontawesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\fontawesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\fontawesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\fontawesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\fontawesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\fontawesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\fontawesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\fontawesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\fontawesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\fontawesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\fontawesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\fontawesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\fontawesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\fontawesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\fontawesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\fontawesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\fontawesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\fontawesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\fontawesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\fontawesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\fontawesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\fontawesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\img\\gallery-img-01.jpg",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\img\\gallery-img-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\img\\gallery-img-02.jpg",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\img\\gallery-img-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\img\\gallery-img-03.jpg",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\img\\gallery-img-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\img\\gallery-img-04.jpg",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\img\\gallery-img-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\img\\gallery-img-05.jpg",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\img\\gallery-img-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\img\\gallery-img-06.jpg",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\img\\gallery-img-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\img\\gallery-img-07.jpg",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\img\\gallery-img-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\img\\gallery-img-08.jpg",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\img\\gallery-img-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\img\\gallery-img-09.jpg",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\img\\gallery-img-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\img\\menu-item-bg.png",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\img\\menu-item-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\img\\section-1-bg.jpg",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\img\\section-1-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\img\\section-3-bg.jpg",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\img\\section-3-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\index.html",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\js\\jquery.singlePageNav.min.js",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\js\\jquery.singlePageNav.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\js\\parallax.min.js",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\js\\parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\js\\slick.js",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\js\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\2123_simply_amazed\\js\\templatemo-script.js",
+      "PackagePath": "staticwebassets\\2123_simply_amazed\\js\\templatemo-script.js"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.stajProje.props",
+      "PackagePath": "build\\stajProje.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.stajProje.props",
+      "PackagePath": "buildMultiTargeting\\stajProje.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.stajProje.props",
+      "PackagePath": "buildTransitive\\stajProje.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.stajProje.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

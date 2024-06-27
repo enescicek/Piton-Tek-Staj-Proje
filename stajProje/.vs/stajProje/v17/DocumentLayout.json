@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ENES\\Desktop\\stajProje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E97CA13-5BBE-46E1-9F5C-9B132216ABEA}|stajProje\\stajProje.csproj|c:\\users\\enes\\desktop\\stajproje\\stajproje\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E97CA13-5BBE-46E1-9F5C-9B132216ABEA}|stajProje\\stajProje.csproj|solutionrelative:stajproje\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E97CA13-5BBE-46E1-9F5C-9B132216ABEA}|stajProje\\stajProje.csproj|c:\\users\\enes\\desktop\\stajproje\\stajproje\\viewcomponents\\_notlarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E97CA13-5BBE-46E1-9F5C-9B132216ABEA}|stajProje\\stajProje.csproj|solutionrelative:stajproje\\viewcomponents\\_notlarcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E97CA13-5BBE-46E1-9F5C-9B132216ABEA}|stajProje\\stajProje.csproj|c:\\users\\enes\\desktop\\stajproje\\stajproje\\views\\shared\\components\\_notlarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E97CA13-5BBE-46E1-9F5C-9B132216ABEA}|stajProje\\stajProje.csproj|solutionrelative:stajproje\\views\\shared\\components\\_notlarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E97CA13-5BBE-46E1-9F5C-9B132216ABEA}|stajProje\\stajProje.csproj|c:\\users\\enes\\desktop\\stajproje\\stajproje\\viewcomponents\\_yeninotcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E97CA13-5BBE-46E1-9F5C-9B132216ABEA}|stajProje\\stajProje.csproj|solutionrelative:stajproje\\viewcomponents\\_yeninotcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E97CA13-5BBE-46E1-9F5C-9B132216ABEA}|stajProje\\stajProje.csproj|c:\\users\\enes\\desktop\\stajproje\\stajproje\\views\\shared\\components\\_yeninotcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E97CA13-5BBE-46E1-9F5C-9B132216ABEA}|stajProje\\stajProje.csproj|solutionrelative:stajproje\\views\\shared\\components\\_yeninotcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_NotlarComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\ViewComponents\\_NotlarComponentPartial.cs",
+              "RelativeDocumentMoniker": "stajProje\\ViewComponents\\_NotlarComponentPartial.cs",
+              "ToolTip": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\ViewComponents\\_NotlarComponentPartial.cs",
+              "RelativeToolTip": "stajProje\\ViewComponents\\_NotlarComponentPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T15:31:01.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\Views\\Shared\\Components\\_NotlarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "stajProje\\Views\\Shared\\Components\\_NotlarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\Views\\Shared\\Components\\_NotlarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "stajProje\\Views\\Shared\\Components\\_NotlarComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T15:27:43.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\Views\\Shared\\Components\\_YeniNotComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "stajProje\\Views\\Shared\\Components\\_YeniNotComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\Views\\Shared\\Components\\_YeniNotComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "stajProje\\Views\\Shared\\Components\\_YeniNotComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T15:27:05.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_YeniNotComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\ViewComponents\\_YeniNotComponentPartial.cs",
+              "RelativeDocumentMoniker": "stajProje\\ViewComponents\\_YeniNotComponentPartial.cs",
+              "ToolTip": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\ViewComponents\\_YeniNotComponentPartial.cs",
+              "RelativeToolTip": "stajProje\\ViewComponents\\_YeniNotComponentPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T15:26:53.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "stajProje\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ENES\\Desktop\\stajProje\\stajProje\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "stajProje\\Views\\Default\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T18:58:23.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
